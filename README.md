@@ -4,9 +4,9 @@
 
 <h3 align="center">
 
-- 🔭 My website: **[www.czavks.eu](https://czavks.eu/)**
+🔭 My website: **[www.czavks.eu](https://czavks.eu/)**
 
-- 📫 Discord: **czavks#0001**
+📫 Discord: **czavks#0001**
 </h3>
 
 <p align="center"><a href="#"><img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a></p>
