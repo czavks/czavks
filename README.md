@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm czavks</h1>
 <h3 align="center">Developer from Poland 🇵🇱</h3>
 
-- 🔭 My website: **[www.czavks.eu](https://czavks.eu/)**
+<h3 align="center">- 🔭 My website: **[www.czavks.eu](https://czavks.eu/)**
 
 - 📫 Discord: **czavks#0001**
 
