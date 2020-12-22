@@ -1,9 +1,4 @@
-<style>
-.discord{
-text-align: center;
-}</style>
-
-
+<align="center>
 <h1 align="center">Hi 👋, I'm czavks</h1>
 <h3 align="center">Developer from Poland 🇵🇱</h3>
 
