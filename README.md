@@ -1,7 +1,13 @@
+<style>
+.discord{
+text-align: center;
+}</style>
+
+
 <h1 align="center">Hi 👋, I'm czavks</h1>
 <h3 align="center">Developer from Poland 🇵🇱</h3>
 
-<h3 align="center">- 🔭 My website: **[www.czavks.eu](https://czavks.eu/)**
+- 🔭 My website: **[www.czavks.eu](https://czavks.eu/)**
 
 - 📫 Discord: **czavks#0001**
 
