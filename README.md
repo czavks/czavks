@@ -8,5 +8,5 @@
 
 🔭 My website: **[www.czavks.eu](https://czavks.eu/)**
 
-📫 Discord: **czavks#0001**
+📫 Discord: **ygftywegfytgew#6344**
 </h3>
