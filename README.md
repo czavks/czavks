@@ -6,7 +6,7 @@
 
 <h3 align="center">
 
-🔭 My **out of date** page: **[www.czavks.eu](https://czavks.eu/)**
+🔭 My **out of date** page: **[click](https://www.youtube.com/watch?v=j4THaJtsKCc)**
 
-📫 Discord: **slodki#5555**
+📫 Discord: **czakuś#8242**
 </h3>
